@@ -31,4 +31,4 @@ public class TestGreeter {
     assertThat(greeter.greet(someone).length(), is(greaterThan(someone.length())));
   }
 }
-# Just adding some texts to make changes to this git repo
+// Just adding some texts to make changes to this git repo
