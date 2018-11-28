@@ -1,7 +1,7 @@
 # maven-project
 Source code for James Lee's Jenkins course.
 
-Check out our Latest DevOps PDF book. // Just adding extra text
+Check out our Latest DevOps PDF book. // Removed unwanted comments
 
 https://www.level-up.one/devops-pdf-book
 
